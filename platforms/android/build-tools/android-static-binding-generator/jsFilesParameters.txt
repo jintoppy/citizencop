@@ -1,0 +1,13 @@
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/details/summary.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/upload/upload.service.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/details/details.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/upload/upload.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/home/home.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/main.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/upload/category.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/app.module.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/details/list.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/upload/uploadItem.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/app.component.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/details/list.service.js
+/Users/jintoj/Documents/learning/NativeScript/citizencop/platforms/android/src/main/assets/app/app.routing.js

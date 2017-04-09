@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "288186596206",
+    "firebase_url": "https://citizencop-3cc64.firebaseio.com",
+    "project_id": "citizencop-3cc64",
+    "storage_bucket": "citizencop-3cc64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288186596206:android:8b80d91ea8763224",
+        "android_client_info": {
+          "package_name": "org.nativescript.citizencop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288186596206-6ubf7o15hjf3j709q4hj70pqsedv0pbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4iePVvucCZE2ClMG9PSSuZ5chdAW_7WI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

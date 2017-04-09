@@ -1,0 +1,19 @@
+<ActionBar title="Upload" class="action-bar"></ActionBar>
+<ScrollView>
+    <StackLayout>
+        <Label text="Upload"></Label>
+        <Image [src]="imageTaken" ></Image>
+        <StackLayout *ngIf="cameraActionCompleted">
+            <Button text="takeAgain" (tap)="takePicture()"></Button>
+            <Label text="Title"></Label>
+            <TextField [(ngModel)]="model.title"></TextField>
+            <Label text="Description (Optional)"></Label>
+            <TextView [(ngModel)]="model.description"></TextView>
+            <Label text="Category"></Label>
+            <ListPicker [(ngModel)]="model.category" [items]="categories"></ListPicker>
+            <Button text="Submit" (tap)="submitPicture()"></Button>
+            <ActivityIndicator [busy]="submissionInProgress"></ActivityIndicator>
+        </StackLayout>
+        
+    </StackLayout>
+</ScrollView>
